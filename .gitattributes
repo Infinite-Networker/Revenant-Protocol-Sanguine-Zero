@@ -1,0 +1,25 @@
+# Handle line endings
+* text=auto
+
+# Binary assets — no diff, stored as-is
+*.mp4   binary
+*.ogg   binary
+*.wav   binary
+*.mp3   binary
+*.woff2 binary
+*.woff  binary
+*.ttf   binary
+*.png   binary
+*.jpg   binary
+*.gif   binary
+*.webp  binary
+
+# GLSL shaders — treat as text
+*.glsl  text eol=lf
+
+# Force LF on all JS/JSON/HTML/CSS
+*.js    text eol=lf
+*.json  text eol=lf
+*.html  text eol=lf
+*.css   text eol=lf
+*.md    text eol=lf
