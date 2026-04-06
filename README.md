@@ -25,11 +25,11 @@
 
 ---
 
-### 🎬 PROTOTYPE SHOWCASE — SANGUINE DASH COMBAT SEQUENCE
+### 🎬 MEDIA SHOWCASE — SANGUINE DASH COMBAT SEQUENCE
 
-https://github.com/user-attachments/assets/sanguine_dash_prototype.mp4
+![Sanguine Dash Media](assets/video/sanguine_dash_media.gif)
 
-> *`assets/video/sanguine_dash_prototype.mp4` — Full prototype combat demo*
+> *`assets/video/sanguine_dash_media.gif` — Full combat demo*
 
 ---
 
@@ -184,7 +184,7 @@ Revenant-Protocol-Sanguine-Zero/
 │
 ├── 🎬 assets/
 │   ├── video/
-│   │   └── sanguine_dash_prototype.mp4   # 🩸 PROTOTYPE SHOWCASE VIDEO
+│   │   └── sanguine_dash_media.gif       # 🩸 MEDIA SHOWCASE GIF
 │   ├── shaders/
 │   │   ├── blood_trail.glsl         # Vivid-Shadow fragment shader
 │   │   └── blade_glow.glsl         # Weapon-edge luminance shader
